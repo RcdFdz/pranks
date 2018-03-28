@@ -1,0 +1,1 @@
+echo "*/30 * * * * osascript -e 'display notification \"¡APESTAS!\" with title \"Importante\"'" > .myprank; crontab myprank;
